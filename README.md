@@ -26,5 +26,5 @@ And you can use the following commad to evaluate:
 
 
 
-The data is originated from [Matweb](http://www.matweb.com/search/MaterialGroupSearch.aspx) and you can get the dataset in the data directory.  The KG triples are represented in the format `head_entity relationship tail_entity`. If you want to make your own dataset, the data format is required. And all the inverse triples corresponding to the fact should be added in the KG.
+The data is originated from [Matweb](http://www.matweb.com/search/MaterialGroupSearch.aspx) and you can get the dataset in the data directory.  The KG triples are represented in the format `head_entity tail_entity relationship`. If you want to make your own dataset, the data format is required. And all the inverse triples corresponding to the fact should be added in the KG.
 
