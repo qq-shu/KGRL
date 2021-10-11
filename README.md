@@ -2,11 +2,7 @@
 
 ## Environment 
 
-The project is develope based on Python, and the code is implemented in Pytorch environment. The code of the project is in the src directory. 
-
-```shell
-./experiment.sh configs/${config_file}.sh --inference gpu_id
-```
+The project is develope based on Python, and the code is implemented in Pytorch environment. The code of the project is in the src directory.
 
 ## How to Run
 
