@@ -1,7 +1,7 @@
 import argparse
 import os
 
-parser = argparse.ArgumentParser(description='Multi-Hop Knowledge Graph Reasoning with Reward Shaping')
+parser = argparse.ArgumentParser(description='KGRL')
 
 # Experiment control
 parser.add_argument('--process_data', action='store_true',
