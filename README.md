@@ -1,4 +1,4 @@
-# KGR
+# KGRL
 
 The project is develope based on Python, and the code is implemented in Pytorch environment. The code of the project is in the src directory.
 
